@@ -1,0 +1,12 @@
+*.pyc
+__pycache
+.DS_Store
+.idea
+.env.dev
+.env.prod
+.env.prod.db
+ReadMe.txt
+/data/certbot
+/app/pages/migrations
+/app/products/migrations
+/app/accounts/migrations
