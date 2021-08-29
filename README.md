@@ -5,12 +5,12 @@
 ### A Django stater project with fully basic requirements for a production-ready version.
 
 1. Dockerizing Django with Postgres, Gunicorn, and Nginx.
-	Refer: [django-on-docker] (https://github.com/testdrivenio/django-on-docker)
+	Refer: [django-on-docker](https://github.com/testdrivenio/django-on-docker)
 2. Configuration for Nginx and Certbot with Let’s Encrypt on docker-compose
-	Refer: [nginx-certbot] (https://github.com/wmnnd/nginx-certbot)
+	Refer: [nginx-certbot](https://github.com/wmnnd/nginx-certbot)
 3. Django REST framework sample.
 4. A batteries-included, opinionated template for Django.
-	Refer: [djangox] (https://github.com/wsvincent/djangox)
+	Refer: [djangox](https://github.com/wsvincent/djangox)
 - User log in/out, sign up, password reset via [django-allauth](https://github.com/pennersr/django-allauth)
 - Static files configured with [Whitenoise](http://whitenoise.evans.io/en/stable/index.html)
 - Styling with [Bootstrap v4](https://github.com/twbs/bootstrap)
