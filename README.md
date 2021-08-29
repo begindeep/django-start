@@ -6,7 +6,7 @@
 
 1. Dockerizing Django with Postgres, Gunicorn, and Nginx.
 	Refer: [django-on-docker](https://github.com/testdrivenio/django-on-docker)
-2. Configuration for Nginx and Certbot with Let’s Encrypt on docker-compose
+2. Configuration for Nginx and Certbot with Let’s Encrypt on docker-compose.
 	Refer: [nginx-certbot](https://github.com/wmnnd/nginx-certbot)
 3. Django REST framework sample.
 4. A batteries-included, opinionated template for Django.
@@ -44,4 +44,6 @@ Uses gunicorn + nginx.
 
     Test it out at [http://localhost:1337](http://localhost:1337).
 3. Modify init-letsencrypt.sh & app.conf with domains and email addresses and run it:
-		./init-letsencrypt.sh
+	```sh
+    $ ./init-letsencrypt.sh
+    ```
