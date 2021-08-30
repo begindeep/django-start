@@ -43,7 +43,7 @@ Uses gunicorn + nginx.
     ```
 
     Test it out at [http://localhost:1337](http://localhost:1337).
-3. Modify init-letsencrypt.sh & app.conf with domains and email addresses and run it:
+3. Modify init-letsencrypt.sh & app.conf with domains and email addresses then running it:
 	```sh
     $ ./init-letsencrypt.sh
     ```
